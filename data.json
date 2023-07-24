@@ -1,0 +1,303 @@
+{
+  "headset": [
+    {
+      "foto": "images/produk/headset1.jpeg",
+      "nama": "GOR R3432",
+      "size": "200 Gram",
+      "harga": "450.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/headset2.jpeg",
+      "nama": "GORR32564",
+      "size": "200 Gram",
+      "harga": "800.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/headset3.jpeg",
+      "nama": "Log T453",
+      "size": "150 Gram",
+      "harga": "750.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/headset4.jpeg",
+      "nama": "Log T6754",
+      "size": "150 Gram",
+      "harga": "650.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/headset5.jpeg",
+      "nama": "Log Y6478",
+      "size": "150 Gram",
+      "harga": "800.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/headset6.jpeg",
+      "nama": "ORG",
+      "size": "150 Gram",
+      "harga": "900.000",
+      "link": ""
+    }
+  ],
+  "keyboard": [
+    {
+      "foto": "images/produk/key1.png",
+      "nama": "Gamen 4",
+      "size": "400 Gram",
+      "harga": "800.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/key2.png",
+      "nama": "Log 5",
+      "size": "550 Gram",
+      "harga": "800.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/key3.jpeg",
+      "nama": "Long 6",
+      "size": "450 Gram",
+      "harga": "850.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/key4.jpeg",
+      "nama": "Long 7",
+      "size": "450 Gram",
+      "harga": "750.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/key5.jpeg",
+      "nama": "Long 8",
+      "size": "450 Gram",
+      "harga": "650.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/key6.jpeg",
+      "nama": "Long 9",
+      "size": "450 Gram",
+      "harga": "950.000",
+      "link": ""
+    }
+  ],
+  "kursi": [
+    {
+      "foto": "images/produk/kursi1.png",
+      "nama": "VT 345",
+      "size": "10 Kg",
+      "harga": "2.500.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/kursi2.png",
+      "nama": "HY 4534",
+      "size": "10 Kg",
+      "harga": "2.300.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/kursi3.jpeg",
+      "nama": "KY 2345",
+      "size": "10 Kg",
+      "harga": "3.500.000",
+      "link": ""
+    }
+  ],
+  "mainboard": [
+    {
+      "foto": "images/produk/main.jpeg",
+      "nama": "GOR 6",
+      "size": "200 Gram",
+      "harga": "1.450.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/main1.jpeg",
+      "nama": "GOR 7",
+      "size": "200 Gram",
+      "harga": "1.460.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/main2.jpeg",
+      "nama": "Log 1",
+      "size": "150 Gram",
+      "harga": "1.150.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/main3.png",
+      "nama": "Log 2",
+      "size": "150 Gram",
+      "harga": "1.250.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/main4.png",
+      "nama": "Log 3",
+      "size": "150 Gram",
+      "harga": "1.470.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/main5.jpeg",
+      "nama": "ORG",
+      "size": "150 Gram",
+      "harga": "1.900.000",
+      "link": ""
+    }
+  ],
+  "mouse": [
+    {
+      "foto": "images/produk/mouse1.jpeg",
+      "nama": "GOR T3432",
+      "size": "200 Gram",
+      "harga": "250.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/mouse2.jpeg",
+      "nama": "GOR U32564",
+      "size": "200 Gram",
+      "harga": "320.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/mouse3.jpeg",
+      "nama": "Log I453",
+      "size": "150 Gram",
+      "harga": "450.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/mouse4.jpeg",
+      "nama": "Log P6754",
+      "size": "150 Gram",
+      "harga": "750.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/mouse5.png",
+      "nama": "Log E6478",
+      "size": "150 Gram",
+      "harga": "489.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/mouse6.jpeg",
+      "nama": "ORG",
+      "size": "150 Gram",
+      "harga": "890.000",
+      "link": ""
+    }
+  ],
+  "processor": [
+    {
+      "foto": "images/produk/processor1.jpeg",
+      "nama": "AMD 5",
+      "size": "200 Gram",
+      "harga": "7.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/processor2.jpeg",
+      "nama": "AMD 7",
+      "size": "200 Gram",
+      "harga": "8.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/processor3.jpeg",
+      "nama": "AMD 9",
+      "size": "150 Gram",
+      "harga": "10.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/processor4.jpeg",
+      "nama": "Rayzen 10",
+      "size": "150 Gram",
+      "harga": "12.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/processor5.jpeg",
+      "nama": "Intel I9X",
+      "size": "150 Gram",
+      "harga": "12.500.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/processor6.jpeg",
+      "nama": "Intel I9",
+      "size": "150 Gram",
+      "harga": "11.000.000",
+      "link": ""
+    }
+  ],
+  "vga": [
+    {
+      "foto": "images/produk/VGA1.jpeg",
+      "nama": "GOR R3432",
+      "size": "200 Gram",
+      "harga": "7.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA2.jpeg",
+      "nama": "GORR32564",
+      "size": "200 Gram",
+      "harga": "8.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA3.jpeg",
+      "nama": "Log T453",
+      "size": "150 Gram",
+      "harga": "7.500.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA4.jpeg",
+      "nama": "Log T6754",
+      "size": "150 Gram",
+      "harga": "6.500.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA5.jpeg",
+      "nama": "Log Y6478",
+      "size": "150 Gram",
+      "harga": "8.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA6.jpeg",
+      "nama": "ORG 1",
+      "size": "150 Gram",
+      "harga": "9.000.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA7.jpeg",
+      "nama": "ORG 2",
+      "size": "150 Gram",
+      "harga": "9.100.000",
+      "link": ""
+    },
+    {
+      "foto": "images/produk/VGA8.jpeg",
+      "nama": "ORG",
+      "size": "150 Gram",
+      "harga": "900.000",
+      "link": ""
+    }
+  ]
+}
